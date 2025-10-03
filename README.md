@@ -12,5 +12,3 @@
 *   **Search Functionality:** Manages search queries using React Context.
 *   **Scalable Architecture:** API server is designed for horizontal scalability.
 *   **Customizable UI:** Uses Tailwind CSS & Chakra UI for flexibility. 
-
-*Made with [Architech](https://architech.dev)*
